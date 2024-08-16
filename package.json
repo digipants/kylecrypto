@@ -1,0 +1,16 @@
+{
+  "name": "kylecrypto",
+  "version": "1.0.0",
+  "description": "landing page for crypto services",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
